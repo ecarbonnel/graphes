@@ -14,4 +14,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: artefact
-        path: *.svg
+        path: g1.svg g2.svg g3.svg g4.svg g5.svg
