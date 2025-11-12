@@ -1,0 +1,65 @@
+{
+  "total_count": 3,
+  "artifacts": [
+    {
+      "id": 4472724959,
+      "node_id": "MDg6QXJ0aWZhY3Q0NDcyNzI0OTU5",
+      "name": "artefact",
+      "size_in_bytes": 8057,
+      "url": "https://api.github.com/repos/ecarbonnel/graphes/actions/artifacts/4472724959",
+      "archive_download_url": "https://api.github.com/repos/ecarbonnel/graphes/actions/artifacts/4472724959/zip",
+      "expired": false,
+      "digest": "sha256:626778327ca64b9c755ae0bec51b030d25c638ef270bed560bbf20647633e2ab",
+      "created_at": "2025-11-05T10:30:47Z",
+      "updated_at": "2025-11-05T10:30:47Z",
+      "expires_at": "2026-02-03T10:30:26Z",
+      "workflow_run": {
+        "id": 19099015423,
+        "repository_id": 1090114425,
+        "head_repository_id": 1090114425,
+        "head_branch": "main",
+        "head_sha": "f38a6b1f6210cb788ad5b78d10ac3ec3620e4480"
+      }
+    },
+    {
+      "id": 4472638074,
+      "node_id": "MDg6QXJ0aWZhY3Q0NDcyNjM4MDc0",
+      "name": "artefact",
+      "size_in_bytes": 8057,
+      "url": "https://api.github.com/repos/ecarbonnel/graphes/actions/artifacts/4472638074",
+      "archive_download_url": "https://api.github.com/repos/ecarbonnel/graphes/actions/artifacts/4472638074/zip",
+      "expired": false,
+      "digest": "sha256:fc5730c3592f70d3df5a7e55b38d33d9da7504bc28e8779361c29e44d86e1172",
+      "created_at": "2025-11-05T10:22:00Z",
+      "updated_at": "2025-11-05T10:22:00Z",
+      "expires_at": "2026-02-03T10:19:38Z",
+      "workflow_run": {
+        "id": 19098720151,
+        "repository_id": 1090114425,
+        "head_repository_id": 1090114425,
+        "head_branch": "main",
+        "head_sha": "9989ea992266339b86e3cfb3b6811b57793a4e64"
+      }
+    },
+    {
+      "id": 4472217214,
+      "node_id": "MDg6QXJ0aWZhY3Q0NDcyMjE3MjE0",
+      "name": "artefact",
+      "size_in_bytes": 13215,
+      "url": "https://api.github.com/repos/ecarbonnel/graphes/actions/artifacts/4472217214",
+      "archive_download_url": "https://api.github.com/repos/ecarbonnel/graphes/actions/artifacts/4472217214/zip",
+      "expired": false,
+      "digest": "sha256:0cd91bc5d0a5f6e1786b83c766877e6c0ffdbcd2e7bf4d24c0b4f363ba6c95b4",
+      "created_at": "2025-11-05T09:40:33Z",
+      "updated_at": "2025-11-05T09:40:33Z",
+      "expires_at": "2026-02-03T09:39:26Z",
+      "workflow_run": {
+        "id": 19097660030,
+        "repository_id": 1090114425,
+        "head_repository_id": 1090114425,
+        "head_branch": "main",
+        "head_sha": "527b642eca125a990af151ed3594aa2eb80b31b4"
+      }
+    }
+  ]
+}
